@@ -1,0 +1,19 @@
+{
+  "name": "hostel-complaint-system",
+  "version": "1.0.0",
+  "description": "![Complaint Management System](https://user-images.githubusercontent.com/100947528/225574700-3abd3df2-93f1-4420-b324-343ac293dbb4.png)\r This is a **Hostel Complaint Management System** built to streamline the process of complaint registration and management for my college's hostel services. The app aims to provide a faster and more efficient way to handle complaints, improving communication between students and hostel administration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aboutaditya/Hostel-Complaint-System.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aboutaditya/Hostel-Complaint-System/issues"
+  },
+  "homepage": "https://github.com/aboutaditya/Hostel-Complaint-System#readme"
+}
